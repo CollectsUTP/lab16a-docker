@@ -3,5 +3,8 @@
 "version":"1.0.0",
 "description":"ejemplo de node.js dentro de un contenedor",
 "main":"app.js",
-"license":"MIT"
+"license":"MIT",
+"scripts":{
+"start":"node server.js"
+}
 }

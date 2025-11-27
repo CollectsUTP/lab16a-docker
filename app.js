@@ -1,1 +1,1 @@
-onsole.log("hola se esta ejecutando docker")
+console.log("hola se esta ejecutando docker")
